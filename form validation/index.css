@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(11, 99, 99);
+}
+#headform{
+    margin: 5% 25%;
+    border: 1px dotted black;
+    width: 45%;
+    height: 400px;
+    text-align: left;
+    border-right: 20px solid rgb(206, 26, 206);
+    background-color: white;
+    padding: 10px;
+}
+#inputusername{
+    height: 35px;
+    width: 100%;
+    margin-bottom: 15px;
+    font-size: 12px;
+    border: 1px solid;
+    outline: none;
+}
+h2{
+    text-align: left;
+    color: rgb(21, 196, 196);
+}
+#inputpassword{
+    height: 35px;
+    width: 100%;
+    outline: none;
+    font-size: 12px;
+    border: 1px solid;
+}
+label{
+    font-style: italic;
+    font-size: 15px;
+    font-family: cursive;
+}
+a{
+    float: right;
+}
+button{
+    width: 100%;
+    border-radius: 3px;
+    color: blue;
+    height: 30px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#instruction{
+    line-height: 1px;
+    color: red;
+    display: none;
+}

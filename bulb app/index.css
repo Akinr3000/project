@@ -1,0 +1,19 @@
+#bulbhead{
+    border: 1px dotted black;
+    width: 40%;
+    height: 40%;
+    text-align: center;
+}
+#on,
+#off{
+    width: 40%;
+    height: 30px;
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#bulb{
+    margin-top: 10px;
+}
